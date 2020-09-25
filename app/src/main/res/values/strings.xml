@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SaveDataWithRoom</string>
+    <string name="user_name">User name</string>
+    <string name="age">Age</string>
+    <string name="job">Job</string>
+    <string name="gender">Choose gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="save">Save user</string>
+    <string name="show">Show user</string>
+    <string name="please_check">Please, choose your gender</string>
+    <string name="name_required">Name required</string>
+    <string name="age_required">Age required</string>
+    <string name="job_required">Job required</string>
+    <string name="not_found">you must add user in database first</string>
+    <string name="loading">Loading...</string>
+    <string name="user_saved">User Saved</string>
+    <string name="enter_valid_age">Enter valid age</string>
+</resources>
